@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{056959CA-E094-4080-9347-DA312C8F5F75}|Assembly-CSharp.csproj|c:\\users\\juane\\documents\\respaldo pc\\proyectos\\unity\\sistemas expertos\\assets\\scripts\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056959CA-E094-4080-9347-DA312C8F5F75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\conexionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056959CA-E094-4080-9347-DA312C8F5F75}|Assembly-CSharp.csproj|c:\\users\\juane\\documents\\respaldo pc\\proyectos\\unity\\sistemas expertos\\assets\\scripts\\speechtextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056959CA-E094-4080-9347-DA312C8F5F75}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\speechtextmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{056959CA-E094-4080-9347-DA312C8F5F75}|Assembly-CSharp.csproj|c:\\users\\juane\\documents\\respaldo pc\\proyectos\\unity\\sistemas expertos\\assets\\samples\\openai unity\\0.2.0\\chatgpt\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{056959CA-E094-4080-9347-DA312C8F5F75}|Assembly-CSharp.csproj|solutionrelative:assets\\samples\\openai unity\\0.2.0\\chatgpt\\chatgpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionSQL.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\Assets\\Scripts\\ConexionSQL.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConexionSQL.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\Assets\\Scripts\\ConexionSQL.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConexionSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:28:08.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatGPT.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\ChatGPT.cs",
+              "RelativeDocumentMoniker": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\ChatGPT.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\ChatGPT.cs",
+              "RelativeToolTip": "Assets\\Samples\\OpenAI Unity\\0.2.0\\ChatGPT\\ChatGPT.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:25:41.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeechTextManager.cs",
+              "DocumentMoniker": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\Assets\\Scripts\\SpeechTextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpeechTextManager.cs",
+              "ToolTip": "C:\\Users\\juane\\Documents\\Respaldo PC\\Proyectos\\Unity\\Sistemas Expertos\\Assets\\Scripts\\SpeechTextManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpeechTextManager.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAQwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:33:14.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
