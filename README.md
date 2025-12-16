@@ -6,7 +6,7 @@ Asistente Cleire es un proyecto creado para comerciantes que buscan llevar sus v
 
 Con este asistente virtual, los clientes pueden consultar cualquier artículo de la tienda de forma instantánea. El sistema integra el inventario real del comercio para guiar al usuario en el proceso de selección y, posteriormente, facilitar el cierre de la compra.
 
-![Menu](Assets/images/Evidencias/Menu.jpg)
+![Menu](Assets/Images/Evidencias/Menu.jpg)
 
 **🛠️ Tecnología**
 
@@ -18,7 +18,7 @@ Interfaz de Voz: El asistente es manejado mediante comandos de voz, facilitando 
 
 Multilenguaje: Posee soporte para diferentes idiomas, eliminando barreras de comunicación.
 
-![Silicon](Assets/images/Evidencias/Silicon.jpg)
+![Silicon](Assets/Images/Evidencias/Silicon.jpg)
 
 **✨ Características Principales**
 
@@ -32,7 +32,7 @@ El plus de este asistente virtual es su interactividad, ya que el mismo sistema 
 
 Esta demo, de momento, solo está orientada al nicho de accesorios para celulares, pero tiene una gran escalabilidad para implementarse en otros nichos.
 
-![Cargador](Assets/images/Evidencias/Cargador.jpg)
+![Cargador](Assets/Images/Evidencias/Cargador.jpg)
 
 **🚀 Impacto Comercial**
 
